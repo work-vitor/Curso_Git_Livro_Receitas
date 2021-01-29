@@ -1,5 +1,5 @@
-#*Livro de Receitas*
+#Livro de Receitas
 
-##_Olá! Bem vindo ao livro de receitas :)_
+##Olá! Bem vindo ao livro de receitas :)
 
  - Pizza Portuguesa
